@@ -1,4 +1,4 @@
-<h1>「zinko_chart_ReactApp.zip」　をダウンロードし、以下のような
+<h1>「zinko_chart_ReactApp.zip」　をダウンロードし、以下の案内ような
 npmコマンドでReact Appをstartしてみてください。</h1>
 
 
