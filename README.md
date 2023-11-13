@@ -1,3 +1,7 @@
+<h1>「zinko_chart_ReactApp.zip」　をダウンロードし、以下の案内ような
+npmコマンドでReact Appをstartしてみてください。</h1>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
